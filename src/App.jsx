@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
+import ReelsCarousel from "./components/ReelsCarousel";
 import Services from "./components/Services";
 import Portfolio from "./components/Portfolio";
 
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <main>
         <Hero />
+        <ReelsCarousel />
         <Services />
         <Portfolio />
       </main>

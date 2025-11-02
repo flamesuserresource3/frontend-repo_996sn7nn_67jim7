@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="relative min-h-[78vh] w-full overflow-hidden">
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/ezRAY9QD27kiJcur/scene.splinecode"
+          scene="https://prod.spline.design/dRBdpY8aSqcdPO2y/scene.splinecode"
           style={{ width: "100%", height: "100%" }}
         />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/10 via-white/60 to-white"></div>
